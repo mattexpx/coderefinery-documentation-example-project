@@ -9,3 +9,7 @@ Run `analyse_spreadsheet.py` and give the name of the excel file you want to ana
 # Contact
 
 email@gmail.com
+
+# Nice README
+
+https://coderefinery.github.io/documentation/writing-readme-files/
